@@ -271,9 +271,12 @@ a:active {
 .info-container{
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     width: 100%;
+}
+.info-container button {
+    font-size: 1.1rem;
 }
 .last-item:last-child{
     position: absolute;
