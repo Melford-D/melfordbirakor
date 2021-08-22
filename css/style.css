@@ -163,31 +163,6 @@ a:active {
     cursor: pointer;
 }
 
-/* .btn-contact-details{
-    border: none;
-    outline: none;
-    border-radius: 5px;
-    color: #fff;
-    font-size: 1.5rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    padding: 1rem 2rem;
-    background-color: #2196f3;
-    transition: all .5s ease-in-out;
-    box-shadow: 3px 3px 8px 3px rgba(0, 0, 0, 0.2);
-}
-
-*/
-/* .btn-contact-details:hover{
-    cursor: pointer;
-    color: #000;
-    background-color: #fff;
-    border: white;
-} */
-/* .btn-contact-details:focus{
-    outline: 0px;
-}  */
-
 /*==================================================
                   SECTION (Generic)
 ====================================================*/
